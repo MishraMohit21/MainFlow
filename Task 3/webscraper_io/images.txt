@@ -1,0 +1,4 @@
+Alt: Web Scraper, Source: /img/logo_white.svg
+Alt: item, Source: /images/test-sites/e-commerce/items/cart2.png
+Alt: item, Source: /images/test-sites/e-commerce/items/cart2.png
+Alt: item, Source: /images/test-sites/e-commerce/items/cart2.png
